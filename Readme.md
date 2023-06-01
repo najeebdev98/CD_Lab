@@ -1,3 +1,11 @@
+To Run the program 
+Step 1 - flex programname.l
+Step 2 - gcc lex.yy.c
+Step 3 - a.exe
+
+
+
+
 Exp. A01
 Write a Lex program to find Keyword, Identifier, Constant, Special Characters, Whitespace.
 
